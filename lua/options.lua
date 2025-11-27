@@ -2,7 +2,11 @@ require "nvchad.options"
 
 local option = vim.o
 
-option.relativenumber = true
+option.number = true
 option.tabstop = 2
-option.smartindent = true
-option.cursorline = true
+option.expandtab = true
+option.softtabstop = 2
+option.shiftwidth = 2
+
+option.ignorecase = true
+option.smartcase = true
