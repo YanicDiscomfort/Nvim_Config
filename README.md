@@ -5,7 +5,7 @@ if you want to use them:
 
 1. **install dependencies**
     ```sh
-    sudo pacman -S nerd-fonts ripgrep lua make gcc neovim nodejs npm
+    sudo pacman -S nerd-fonts ripgrep lua make gcc neovim nodejs npm silicon
     ```
 
 2. **Backup your current config, if you have one**
@@ -18,4 +18,3 @@ if you want to use them:
     ```
 4. **READ THE DOCUMENTATIONS**
     [NvChad-Docs](https://nvchad.com/docs/quickstart/install)
-

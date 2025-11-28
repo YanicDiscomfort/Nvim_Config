@@ -20,10 +20,6 @@ require("lazy").setup({
     branch = "v2.5",
     import = "nvchad.plugins",
   },
-  {
-    "andweeb/presence.nvim",
-    lazy = false,
-  },
 
   { import = "plugins" },
 }, lazy_config)

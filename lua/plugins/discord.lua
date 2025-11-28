@@ -1,3 +1,3 @@
 return {
-  { "andweeb/presence.nvim", enabled = true },
+  { "andweeb/presence.nvim", enabled = true, lazy = false },
 }
